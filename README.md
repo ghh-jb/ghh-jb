@@ -4,7 +4,7 @@
 - [#] 💞️ I’m looking to collaborate on Fugu15_Rootful but it is now archived:( Linus Henze left jailbreaking
 - [#] 📫 How to reach me: NO DEFINETELY NOT.
 - [#] 😄 Pronouns: He/Him
-- [#] ⚡ Fun fact: Hate Windows and android users(They are not humans lol)
+- [#] ⚡ Fun fact: Hate Windows and android users(They are aliens lol)
 
 <!---
 ghh-jb/ghh-jb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
