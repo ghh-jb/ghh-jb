@@ -4,6 +4,7 @@
 - [#] 💞️ I’m looking to collaborate on Fugu15_Rootful but it is now archived:( Linus Henze left jailbreaking
 - [#] 📫 How to reach me: NO DEFINETELY NOT.
 - [#] ⚡ Fun fact: Hate Windows and android systems. idk why mb because they are more COMPLICATED:)
+- [#] 📱 Used devices: iPhone 4; iPad 4; iPhone 6/6S; iPhone SE 2016; iPhone SE 2020 and all jailbroken!
 
 <!---
 ghh-jb/ghh-jb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
