@@ -3,7 +3,6 @@
 - [#] 🌱 I’m currently learning Swift, CPP, Obj-c, Python and shell scripting
 - [#] 💞️ I’m looking to collaborate on Fugu15_Rootful but it is now archived:( Linus Henze left jailbreaking
 - [#] 📫 How to reach me: NO DEFINETELY NOT.
-- [#] 😄 Pronouns: He/Him
 - [#] ⚡ Fun fact: Hate Windows and android systems. idk why mb because they are more COMPLICATED:)
 
 <!---
