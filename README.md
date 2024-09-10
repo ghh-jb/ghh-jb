@@ -8,7 +8,7 @@
 - [#] 🔓Jailbroke my devices with: redsn0w, Pangu7, Phoenix, Etas0n, H3lix, Chimera, Unc0ver, Taurine, Th0r, Fugu15, Dopamine, XinaA15
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghh-jbe&show_icons=true&locale=en&layout=compact" alt="ghh-jb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghh-jb&show_icons=true&locale=en&layout=compact" alt="ghh-jb" /></p>
 
 
 
